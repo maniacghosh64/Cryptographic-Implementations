@@ -1,0 +1,9 @@
+Prime p: ad65d7b642afac96c3ae551e0bad7a61e02ec13affb8f0a2377e806cf53ad8bb
+
+Prime q: f6e7acb3f8573f8f9194f76f4b4967f39124584a703118a107a59e24c8b5d073
+
+Composite n = p * q: a73cc9291ce5073e72fed8c3683ed566e4168f117b251b1d3360561d3b999b331df806ae421b487a4a7dd27f4313dcfd90a4cecaadbec5de3e5c786b4dbe4c01
+
+Out of 1000000 single-round MR trials on composite n:
+  Lies (false prime reports): 0
+  Experimental liar rate: 0.000000
