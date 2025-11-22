@@ -1,2 +1,3 @@
 # Cryptographic-Implementations
-This repository contains implementations of various cryptographic ciphers, namely AES, ChaCha, Salsa, RC4, RSA
+This repository contains implementations of various cryptographic ciphers, namely AES, ChaCha, Salsa, RC4 and RSA. Primality testing like Solovay-Strassen and Miller-Rabin are also compiled.
+Sorting algorithms have been implemented, including Quick Sort, Merge Sort, Bubble Sort and Heap Sort in C programming language, along with comparing their respective performances in Jupyter notebook using Python. GNU Multiple Precision Arithmetic Library have been used in coding the different ciphers because of ease in using large numbers and keeping security in mind. Help is taken from various sources like ChatGPT, Wikipedia, Grok, StackExchange, the materials provided in the class group and also from my classmates.
